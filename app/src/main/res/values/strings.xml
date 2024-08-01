@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen transition sample</string>
+    <string name="tv_thx_title">Order completed</string>
+    <string name="tv_thx_desc">The following menu items have been ordered.\nThank you for your order</string>
+    <string name="tv_thx_back">Back to list</string>
+    <string name="currency_until">Yen</string>
+</resources>
